@@ -1,0 +1,1 @@
+print("halooo ini module pertama saya")
